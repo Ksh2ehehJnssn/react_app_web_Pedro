@@ -23,8 +23,6 @@ export default function App() {
         setMostrar={setMostrar}
       />
 
-
-
       <main className='p-4 mt-4'>
         <section className="container p-4 m-auto shadow-lg">
           <Routes>
